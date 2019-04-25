@@ -1,0 +1,11 @@
+for windows 
+
+* be sure to be in the root of the project and type the below commands
+
+python -m venv venv
+
+venv\Scripts\activate  OR  venv\bin\activate
+
+pip install -r requirements.txt
+
+* note the db schema folder. It has the schema for all 3 branches. add all 3.
